@@ -21,7 +21,7 @@ document.addEventListener("click", function (e) {
   }
 });
 
-/*window.addEventListener("load", windowLoad);
+window.addEventListener("load", windowLoad);
 
 function windowLoad() {
   document.addEventListener("click", documentActions);
@@ -37,6 +37,6 @@ function documentActions(e) {
         behavior: "smooth",
       });
     }
-    e.preventDefault;
+    e.preventDefault();
   }
-} */
+}
